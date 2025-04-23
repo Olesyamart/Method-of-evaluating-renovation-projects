@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"name": "school",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "capacity": 500 }, "geometry": { "type": "Point", "coordinates": [ 30.34389325821585, 59.967206861112587 ] } },
+{ "type": "Feature", "properties": { "capacity": 750 }, "geometry": { "type": "Point", "coordinates": [ 30.317618901657919, 59.989281786122255 ] } },
+{ "type": "Feature", "properties": { "capacity": 500 }, "geometry": { "type": "Point", "coordinates": [ 30.3395416139196, 59.99912369233099 ] } },
+{ "type": "Feature", "properties": { "capacity": 500 }, "geometry": { "type": "Point", "coordinates": [ 30.376383344090062, 59.997117889499478 ] } },
+{ "type": "Feature", "properties": { "capacity": 1000 }, "geometry": { "type": "Point", "coordinates": [ 30.394687165179004, 59.983612124588831 ] } },
+{ "type": "Feature", "properties": { "capacity": 1000 }, "geometry": { "type": "Point", "coordinates": [ 30.383020844050357, 59.987201583002772 ] } },
+{ "type": "Feature", "properties": { "capacity": 1000 }, "geometry": { "type": "Point", "coordinates": [ 30.385511510851934, 59.986064834472643 ] } },
+{ "type": "Feature", "properties": { "capacity": 750 }, "geometry": { "type": "Point", "coordinates": [ 30.348619501143236, 59.98320336303626 ] } },
+{ "type": "Feature", "properties": { "capacity": 1000 }, "geometry": { "type": "Point", "coordinates": [ 30.349672, 59.98678 ] } },
+{ "type": "Feature", "properties": { "capacity": 750 }, "geometry": { "type": "Point", "coordinates": [ 30.35058689458954, 59.979479918177105 ] } },
+{ "type": "Feature", "properties": { "capacity": 1000 }, "geometry": { "type": "Point", "coordinates": [ 30.351411, 59.998608 ] } },
+{ "type": "Feature", "properties": { "capacity": 1000 }, "geometry": { "type": "Point", "coordinates": [ 30.330222830975377, 59.980084718763713 ] } },
+{ "type": "Feature", "properties": { "capacity": 1000 }, "geometry": { "type": "Point", "coordinates": [ 30.338441835298493, 59.981116252425224 ] } },
+{ "type": "Feature", "properties": { "capacity": 1000 }, "geometry": { "type": "Point", "coordinates": [ 30.377300312950986, 59.976337054251779 ] } },
+{ "type": "Feature", "properties": { "capacity": 1000 }, "geometry": { "type": "Point", "coordinates": [ 30.368644950877972, 59.982329363171601 ] } }
+]
+}
