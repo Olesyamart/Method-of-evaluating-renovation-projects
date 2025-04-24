@@ -38,8 +38,9 @@
 ### 2 этап - Вычисление по заданным параметрам
 Вычисление по заданным параметрам 
 #### Пространственно-архитектурные параметры 
- [Пространственно-архитектурные параметры ](https://github.com/Olesyamart/Method-of-evaluating-renovation-projects/blob/main/spatial%20and%20architectural%20parameters.ipynb)
-
+ [Пространственно-архитектурные параметры](https://github.com/Olesyamart/Method-of-evaluating-renovation-projects/blob/main/spatial%20and%20architectural%20parameters.ipynb)
+ [Параметры проницаемости](https://github.com/Olesyamart/Method-of-evaluating-renovation-projects/blob/main/territory%20permeability.ipynb)
+ [Обеспеченность городскими сервисами](https://github.com/Olesyamart/Method-of-evaluating-renovation-projects/blob/main/provision%20of%20city%20services.ipynb)
 #### Нормализация оценки по параметрам
 
 | Параметр                     | Условие                                          | Балл | Источник                          |
