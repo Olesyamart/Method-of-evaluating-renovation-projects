@@ -25,9 +25,11 @@
 ## Этапы работы метода 
 ### 1 этап
 Сбор данных 
-![изображение](https://github.com/user-attachments/assets/2eaa24d9-4d10-4882-a931-2149f5e6e286)
+![изображение](https://github.com/user-attachments/assets/72638a39-be8f-4890-975e-169dc713b476)
+
 Общая схема визуализации входных данных: 
-![изображение](https://github.com/user-attachments/assets/b24709c6-b101-4ddf-bc16-5ccaff84b57e)
+![изображение](https://github.com/user-attachments/assets/b9f2cfea-78db-48d1-a10c-26ad84687f16)
+
 
 ### 2 этап
 Вычисление по заданным параметрам 
