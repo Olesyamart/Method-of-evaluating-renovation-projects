@@ -28,13 +28,17 @@
 ![изображение](https://github.com/user-attachments/assets/72638a39-be8f-4890-975e-169dc713b476)
 
 Общая схема визуализации входных данных: 
-![изображение](https://github.com/user-attachments/assets/b9f2cfea-78db-48d1-a10c-26ad84687f16)
+![изображение](https://github.com/user-attachments/assets/05ac2458-d45b-4f95-abf6-31980de00061)
+
 
 
 ### 2 этап
 Вычисление по заданным параметрам 
-![изображение](https://github.com/user-attachments/assets/5a6a4487-74d0-4cb9-8500-f3b9028301bb)
-![изображение](https://github.com/user-attachments/assets/af2a6976-d0fe-48c7-8968-0bd01e76f1e2)
+Визуализация доступности кварталов
+![изображение](https://github.com/user-attachments/assets/d7e3a45c-db85-411d-9731-138eeee931e0)
+
+Визуализация связанности территории
+![изображение](https://github.com/user-attachments/assets/5a6b8d55-2f92-4191-b483-a583e5fc6697)
 
 Значения параметров, полученных в ходе применения метода
 | Параметр                         | Промышленная застройка | Жилая застройка | Норматив / Изменение   | Балл |
