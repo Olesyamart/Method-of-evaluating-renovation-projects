@@ -16,12 +16,12 @@
         
 ## Используемые библиотеки и инструменты
 
-    GeoPandas, Shapely — геообработка
-    BlocksNet, ObjectNat, OSMnx, NetworkX — работа с графом УДС, сервисами и кварталами
-    Folium, Matplotlib — визуализация
-    Pandas, NumPy — аналитика и табличная обработка
+  GeoPandas, Shapely — геообработка
+  BlocksNet, ObjectNat, OSMnx, NetworkX — работа с графом УДС, сервисами и кварталами
+  Folium, Matplotlib — визуализация
+  Pandas, NumPy — аналитика и табличная обработка
     
-    Открытые данные: OpenStreetMap, Платформа цифровой урбанистики
+  Открытые данные: OpenStreetMap, Платформа цифровой урбанистики
 ## Этапы работы метода 
 ### 1 этап - Сбор данных 
 
