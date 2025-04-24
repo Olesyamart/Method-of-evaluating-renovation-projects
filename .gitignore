@@ -30,7 +30,7 @@ ENV/
 .DS_Store
 Thumbs.db
 
-# Data files (если ты случайно их не хочешь коммитить)
+# Data files 
 *.csv
 *.tsv
 *.xls
@@ -40,7 +40,7 @@ Thumbs.db
 *.zip
 *.tar.gz
 
-# Images and binary output (если генеришь их в ноутбуках)
+# Images and binary output 
 *.png
 *.jpg
 *.jpeg
