@@ -37,7 +37,7 @@
 | Улично-дорожная сеть    | Данные об УДС, включая длину <br>Теги OSM: `highway=primary/secondary/tertiary`           | OpenStreetMap <br>Топографическая карта        | `roads`        | geojson  | line      | `length` – длина                                                         |
 | Железные дороги         | `railway`                                                                                  | OpenStreetMap                                 | `railways`     | geojson  | line      | –                                                                         |
 | Городские сервисы       | Данные о городских сервисах: <br>– вместимость <br>– радиус обслуживания                  | Платформа Цифровой урбанистики                | `services`     | geojson  | point     | `capacity` – вместимость                                                 |
-| Зеленые насаждения      | Данные об озеленении: <br>– площадь                                                       | Платформа Цифровой урбанистики <br>Топокарта <br>Спутниковая карта | `green`         | geojson  | polygon   | `area` – площадь                                                         |
+| Зеленые насаждения      | Данные об озеленении: <br>– площадь                                                       | Платформа Цифровой урбанистики <br>Топокарта <br>Спутниковая съемка | `green`         | geojson  | polygon   | `area` – площадь                                                         |
 | Водные объекты          | Тег OSM: `natural=water`                                                                   | OpenStreetMap                                 | `water`        | geojson  | polygon   | –                                                                         |
 
 
