@@ -38,7 +38,7 @@
 ### 2 этап - Вычисление по заданным параметрам
 Вычисление по заданным параметрам 
 #### Пространственно-архитектурные параметры 
- [Пространственно-архитектурные параметры ]([URL](https://github.com/Olesyamart/Method-of-evaluating-renovation-projects/blob/main/spatial%20and%20architectural%20parameters.ipynb))
+ [Пространственно-архитектурные параметры ](https://github.com/Olesyamart/Method-of-evaluating-renovation-projects/blob/main/spatial%20and%20architectural%20parameters.ipynb)
 
 #### Нормализация оценки по параметрам
 
